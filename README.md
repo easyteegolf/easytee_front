@@ -1,1 +1,1 @@
-# prosper digital consulting
+# Easy Tee
