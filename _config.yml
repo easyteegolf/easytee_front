@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Easy Tee | The tee sheet that works with Square!
+title: Easy Tee | Golf tee sheets that work with Square point of sale!
 email: admin@easyteegolf.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Easy Tee is the fast and easy way to manage your golf course tee sheet. It works with Square point of sale, making it fast to learn and easy to use.
+  Easy Tee integrates your golf course tee sheet with Square point of sale. Our platform is easy to use, flexible, and intuitive!
 # baseurl: "/"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "//easyteegolf.com/" # the base hostname & protocol for your site, e.g. http://example.com
