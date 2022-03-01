@@ -1,14 +1,66 @@
-{% include header.html %}
-  <h1>{{page.title}}</h1>
-    <section>
-      {{ content }}
-    </section>
+<!--
+=========================================================
+* Impact Design System PRO - v1.0.0
+=========================================================
+* Product Page: https://www.creative-tim.com/product/impact-design-system-pro
+* Copyright  Creative Tim (http://www.creative-tim.com)
+* Coded by www.creative-tim.com
+=========================================================
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
+<!doctype html>
+<html lang="en">
 
-  <div>
-    {% for category in page.categories %}
-      {{category}}
-    {% endfor %}
-  </div>
+{% include header.html %}
+<body>
+{% include navbar.html %}
+
+<main>
+  <!-- Hero -->
+  <section class="section-header bg-primary text-white" id="home">
+      <div class="container">
+          <div class="row justify-content-center">
+              <div class="col-12 col-md-10 text-center">
+                  <h1 class="display-1 mb-2">{{page.title}}</h1>
+                  <p class="lead">{{page.subtitle}}</p>
+              </div>
+          </div>
+      </div>
+  </section>
+  
+  <section class="section section-lg line-bottom-light">
+      <div class="container">
+          <div class="row justify-content-center mb-4 mb-lg-6">
+              <div class="col-12">
+                  <p>{{content}}</p>
+              </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <p class="font-weight-bold h5 mb-2">Categories</p>
+              {% for category in page.categories %}
+                <span class="badge badge-primary">{{category}}</span>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <p class="mt-4">Posted on {{page.date | date: "%B %-d, %Y" }}</p>
+            </div>
+          </div>
+      </div>
+  </section>
+
+</main>
+
+<div>
+  
+</div>
 
 {% include footer.html %}
+{% include scripts.html %}
+{% include analytics.html %}
+
+</body>
+</html>
     
