@@ -7,3 +7,31 @@
 
     gtag('config', '{{site.google_analytics}}');
 </script>
+<script>
+    const pageName = "{{page.name}}";
+</script>
+<script>
+
+$(document).ready(function() {
+
+    function logEvent(name, category, action, label, value) {
+        gtag('event', name, {'event_category' : category, 'event_label' : label, 'value' : value});
+    }
+
+    logEvent('page_view', 'Page View', 'view', pageName); 
+    // log the page view with the path as the label
+
+    $('.analytic_log').click(function() {
+        var button = $(this);
+        let this_name = button.data('name');
+        let this_category = button.data('category');
+        let this_label = button.data('label');
+        logEvent(this_name, this_category, 'Click', this_label);
+        // console.log(this_name);
+        // console.log(this_category);
+        // console.log(this_label);
+    })
+
+})
+
+</script>
