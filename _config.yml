@@ -35,6 +35,10 @@ permalink: /articles/:title/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  # - jekyll-paginate
+
+# paginate: 6
+# paginate_path: "/articles/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

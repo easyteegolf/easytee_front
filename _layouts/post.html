@@ -28,8 +28,15 @@
       </div>
   </section>
   
-  <section class="section section-lg line-bottom-light">
+  <section class="section line-bottom-light">
       <div class="container">
+        {% if page.head_img %}
+          <div class="row mb-4">
+            <div class="col text-center">
+              <img src="{{ page.head_img }}" class="img-fluid rounded">
+            </div>
+          </div>
+        {% endif %}
           <div class="row justify-content-center mb-4 mb-lg-6">
               <div class="col-12">
                   <p>{{content}}</p>

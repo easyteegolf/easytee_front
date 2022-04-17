@@ -1,0 +1,41 @@
+---
+layout: default
+title: Articles
+order: 1
+---
+
+    
+<main>
+    <section class="section-header bg-primary text-white" id="home">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10 text-center">
+                    <h1 class="display-1 mb-4">Articles</h1>
+                    <p class="lead mb-5 px-lg-5">Check out the latest news from Easy Tee Golf</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container">
+        <div class="row">
+            {% for post in site.posts %}
+            <div class="col-lg-4 my-4">
+                <div class="card bg-white border-light shadow-soft p-4">
+                    {% if post.head_img %}
+                    <a href="{{ post.url }}">
+                        <img src="{{ post.head_img }}" class="card-img-top" alt="{{ post.alt_img }}">
+                    </a>
+                    {% endif %}
+                    <div class="card-body p-0 pb-2 pt-3">
+                        <a href="{{ post.url }}" class="h3">{{ post.title }}</a>
+                        <p class="mb-0 mt-2">{{ post.excerpt }}</p>
+                        <p class="mb-0 mt-2"><a href="{{ post.url }}">Read more</a></p>
+                    </div>
+                </div> 
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+       
+
+</main>
