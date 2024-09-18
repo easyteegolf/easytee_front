@@ -7,7 +7,7 @@ alt_img: 'Banner'
 categories: features announcements sim simulators Square
 ---
 
-Calling all golf simulator aficionados! We at Easy Tee Golf are thrilled to announce a game-changing update that expands our capabilities to golf simulators.
+Calling all golf simulators! Easy Tee Golf is thrilled to announce a game-changing update that expands our capabilities to golf simulators.
 
 **Introducing Easy Tee Golf for Simulators!**
 
