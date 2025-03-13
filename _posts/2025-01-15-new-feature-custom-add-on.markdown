@@ -30,4 +30,4 @@ Once you've activated your add-on, it will be automatically offered to customers
 
 We believe that the custom add-on feature offers you an opportunity to generate additional revenue and streamlines the experience for your customers. 
 
-Ready to take your golf course or simulator to the next level? <a href="https://easyteegolf.com">Sign up for Easy Tee Golf today</a> and start managing your operation the easy way!
+Ready to take your golf course or simulator to the next level? <a href="https://easyteegolf.com?utm_source=add_on_article" target="_blank">Sign up for Easy Tee Golf today</a> and start managing your operation the easy way!

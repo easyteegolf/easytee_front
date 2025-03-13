@@ -50,4 +50,4 @@ If you're looking for ways to improve efficiency and customer experience at your
 
 <a href="https://squareup.com/?utm_source=easyteegolf.com" target="_blank">Learn more about Square POS</a>
 
-<a href="https://easyteegolf.com/">Learn more about Easy Tee Golf</a>
+<a href="https://easyteegolf.com/?utm_source=square_at_course_article" target="_blank">Learn more about Easy Tee Golf</a>
