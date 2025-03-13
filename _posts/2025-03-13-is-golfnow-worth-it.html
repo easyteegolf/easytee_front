@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Is GolfNow worth it for your golf course?"
+subtitle: "How much does bartering tee times really cost you and what are the alternatives to GolfNow?"
+head_img: '/assets/img/articles/online_booking.png'
+alt_img: 'Online tee time booking'
+categories: teesheet golfnow barter tradetimes teetimes alternatives
+scripts: <script src="/assets/js/calculatorform.js"></script>
+excerpt_separator: <!-- excerpt -->
+---
+
+<p>
+    If you're on this page, you're probably already familiar with GolfNow. You might even be one of their customers. If you're not familiar with them, GolfNow provides a tee time booking engine and marketplace. The company utilizes a bartering system where golf courses provide them with tee times in exchange for access to their technology and other services, instead of paying out of pocket. GolfNow sells the tee times, often at a big discount and keeps the proceeds. But for golf courses, is trading tee times actually a good deal? <!-- excerpt -->Sure, it might sound good to not pay anything out of pocket, but what's the real cost of bartering tee times?
+</p>
+
+<p>
+    Use this calculator to estimate how much revenue you could be missing out on by trading precious space in your tee sheet for GolfNow's service.
+</p>
+<hr />
+<div class="row my-4">
+    
+    <div class="col">
+        <form id="calculatorform" class="needs-validation" novalidate>
+            <p>
+                <label for="daily-trade-rounds" class="form-label">Barter rounds per day</label>
+                <input class="form-control" id="daily-trade-rounds" type="number" step="1" value="2" min="1" required>
+            </p>
+            <p>
+                <label for="trade-round-days" class="form-label">Days per week with barter rounds</label>
+                <input class="form-control" id="trade-round-days" type="number" step="1" value="7" min="1" max="7" required>
+            </p>
+            
+            <p>
+                <label for="trade-round-golfers" class="form-label">Golfers per barter round</label>
+                <input class="form-control" id="trade-round-golfers" type="number" step="1" value="4" min="1" max="5" required>
+            </p>
+            <p>
+                <label for="months-open" class="form-label">Months per year that your course is open</label>
+                <input class="form-control" id="months-open" type="number" step="1" value="12" min="1" max="12" required>
+            </p>
+            <p>
+                <label for="green-fee" class="form-label">Green fee price</label>
+                <input class="form-control" id="green-fee" type="number" step="0.01" value="30.00" min="1" required>
+            </p>
+            <p>
+                <label for="cart-fee" class="form-label">Cart fee price</label>
+                <input class="form-control" id="cart-fee" type="number" step="0.01" value="15.00" min="0" required>
+            </p>
+            <p class="text-center">
+                <button type="submit" class="btn btn-primary" id="calculate-button"><i class="fas fa-calculator mr-2"></i> Calculate </button>
+            </p>
+        </form>
+    </div>
+</div>
+<hr />
+<p>
+    Want to stop bartering tee times? There's an alternative to GolfNow! <a href="https://easyteegolf.com?utm_source=golfnow_article" target="_blank">Learn more about Easy Tee Golf</a> and see how we can help your golf course take online bookings, manage your tee sheet, and run more efficiently at a fraction of the cost!
+</p>
+
+
+<div class="modal fade" id="calculator-modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="modal-title-default">Your Results</h4> 
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Estimated revenue cost of bartering tee times: $<span id="annual-cost" class="font-weight-bold"></span></p>
+                <p>Did you know there's a better option? <span class="font-weight-bold">Easy Tee Golf is just $200 per month!</span></p>
+                <p>Easy Tee Golf annual cost: $<span id="easy-tee-cost" class="font-weight-bold"></span></p>
+                <p>Estimated annual savings by switching to Easy Tee Golf: $<span id="savings" class="savings font-weight-bold"></span></p>
+                <p class="h5">What would you do with an extra $<span class="savings"></span>?</p>
+                <p><a href="https://easyteegolf.com/?utm_source=golfnow_results" target="_blank">Learn more about Easy Tee Golf</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
