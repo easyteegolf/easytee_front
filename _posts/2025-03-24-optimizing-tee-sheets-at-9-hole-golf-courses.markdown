@@ -4,7 +4,7 @@ title:  "Optimizing Tee Sheets at 9-Hole Golf Courses"
 subtitle: "Handling 18-Hole bookings for maximum revenue and efficiency"
 head_img: '/assets/img/articles/golfball.jpg'
 alt_img: 'Online tee time booking'
-categories: teesheet optimization 9_holes
+categories: teesheet optimization 9-holes 18-hole-bookings revenue efficiency
 excerpt_separator: <!-- excerpt -->
 ---
 
