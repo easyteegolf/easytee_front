@@ -31,7 +31,8 @@ While Square provides a powerful foundation, Easy Tee Golf adds the crucial golf
 
 * **Tee Time Management:** Effortlessly manage your tee sheet, schedule bookings online and in-house, handle cancellations and modifications, and optimize your course utilization. Golfers can easily book their preferred tee times through your website, directly integrated with your Square POS for payment processing.  
 * **Membership Management:** Streamline your membership programs, track member benefits, manage renewals, and offer exclusive member discounts and booking options directly through the POS during transactions.  
-* **Pace of Play Monitoring:** Some Easy Tee Golf systems offer features to monitor the pace of play on your course, helping you identify potential bottlenecks and improve the overall golfer experience.
+* **Customize Your Tee Sheet:** Our tee sheet is flexible and customizable to handle all of your needs. We support weekday, weekend, and holiday hours and pricing. Need to schedule a tournament or league? We’ve got you covered!
+* **Pace of Play Monitoring:** Easy Tee Golf offers features to monitor the pace of play on your course, helping you identify potential bottlenecks and improve the overall golfer experience.
 
 **The Power of Integration: A Hole-in-One Solution**
 
