@@ -7,8 +7,6 @@ alt_img: 'Square | Easy Tee Golf'
 categories: Square POS payments integration 
 ---
 
-## A golf course POS without the headaches
-
 Running a golf course is a complex operation. From managing tee times and pro shop sales to food and beverage services, you need a point-of-sale (POS) system that can handle it all seamlessly. Look no further\! The winning combination of **Square POS** and **Easy Tee Golf** provides the most comprehensive and efficient solution to elevate your golf course management.
 
 Forget juggling multiple systems and wrestling with outdated technology. By integrating the robust capabilities of Square with the golf-specific features of Easy Tee Golf, you can streamline your operations, enhance customer experience, and ultimately drive more revenue. Let's explore why this dynamic duo is the best POS for your golf course.
