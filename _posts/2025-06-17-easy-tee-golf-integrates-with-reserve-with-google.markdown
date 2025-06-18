@@ -2,7 +2,7 @@
 layout: post
 title:  "Easy Tee Golf Integrates with Reserve with Google"
 subtitle: "Bookings made beautifully simple, right from Google"
-head_img: '/assets/img/articles/easytee_reserve_with_google.png'
+head_img: '/assets/img/articles/reserve_with_google.png'
 alt_img: 'Easy Tee Golf | Reserve with Google'
 categories: teesheet online bookings Google integration reserve
 ---
