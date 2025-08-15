@@ -11,7 +11,7 @@ We're thrilled to announce that our founding story was recently featured in an a
 
  <a href="https://insights.saasbrowser.com/case-study-easy-tee-golf-courses-worldwide-management-simplifying-tee-time/" target="_blank">Read the full article on SaaS Browser</a>
 
-<a href="https://easyteegolf.com/?utm_source=saasbrowser_article">Learn more about Easy Tee Golf</a>.
+<a href="https://easyteegolf.com/?utm_source=saasbrowser_article">Learn more about Easy Tee Golf</a>
 
 
 
