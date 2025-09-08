@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Waitlists for Your Golf Course"
-subtitle: "Never let a cancelled tee time go empty again!"
+subtitle: "Don't let a cancelled tee time go empty again!"
 head_img: '/assets/img/articles/waitlist.png'
 alt_img: 'Easy Tee Golf Waitlist Success'
 categories: teesheet features waitlist no-shows optimization
