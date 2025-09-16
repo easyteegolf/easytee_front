@@ -44,4 +44,41 @@
 <!-- Front CSS -->
 <link type="text/css" href="{{'assets/css/front.css' | relative_url}}" rel="stylesheet">
 
+<!-- Schema.org markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "Easy Tee Golf",
+      "url": "https://easyteegolf.com",
+      "logo": "https://easyteegolf.com/assets/img/brand/easy_tee_lg.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "support@easyteegolf.com",
+        "contactType": "customer service"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/easy-tee-golf/",
+        "https://www.facebook.com/EasyTeeGolfApp/",
+        "https://x.com/EasyTeeGolf"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Easy Tee Golf",
+      "url": "https://easyteegolf.com",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "description": "{{site.description}}",
+      "author": {
+        "@type": "Organization",
+        "name": "Easy Tee Golf"
+      }
+    }
+  ]
+}
+</script>
+
 </head>
