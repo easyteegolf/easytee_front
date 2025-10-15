@@ -2,8 +2,8 @@
 layout: post
 title:  "Simplifying payment processing fees at your golf course"
 subtitle: "Why golf courses feel “locked in” and how to break free"
-head_img: '/assets/img/articles/payments_simplified.png'
-alt_img: 'Easy Tee Golf | Square'
+head_img: '/assets/img/articles/payments_confusion.png'
+alt_img: 'Payments confusion'
 categories: teesheet payments POS fees payment-processing
 ---
 
