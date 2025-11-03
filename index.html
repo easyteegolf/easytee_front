@@ -284,7 +284,7 @@ order: 0
                                 <p class="h5">Have an off season? Only pay when you're open.</p>
                                 <p>With our offseason feature, when you close down for winter, so does your bill!</p>
                                 <p class="lead mt-5">Need something else? A website? Multiple courses? A simulator and a golf course? </p>
-                                <p><a href="#" data-toggle="modal" data-target="#pricing-modal" data-name="button_click_contact" data-category="small-course" data-label="Contact" class="analytic_log text-secondary font-weight-bold">Contact us</a> for a price quote.</p>
+                                <p><a href="#" data-toggle="modal" data-target="#contact-modal" data-name="button_click_contact" data-category="small-course" data-label="Contact" class="analytic_log text-secondary font-weight-bold">Contact us</a> for a price quote.</p>
                             </div>
                         </div>
                     </div>
@@ -448,49 +448,13 @@ order: 0
                 <div class="row text-center">
                     <div class="col mb-5">
                         <h5>Have more questions?</h5>
-                        <a href="#" data-toggle="modal" data-target="#pricing-modal" class="btn btn-md btn-outline-primary animate-up-2 mr-2 analytic_log" data-name="button_click_contact" data-category="FAQ" data-label="Contact"><i class="fas fa-pen mr-2"></i></i>Contact Us</a>
+                        <a href="#" data-toggle="modal" data-target="#contact-modal" class="btn btn-md btn-outline-primary animate-up-2 mr-2 analytic_log" data-name="button_click_contact" data-category="FAQ" data-label="Contact"><i class="fas fa-pen mr-2"></i></i>Contact Us</a>
                     </div>
                 </div>
             </div>    
         </section>
 
-<div id="pricing-modal" class="modal fade pricing-modal" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
-        <div class="modal-content py-4">
-            <div class="px-3">
-                <div class="col-12 d-flex justify-content-end d-lg-none">
-                    <button class="btn btn-sm btn-white"  data-dismiss="modal" aria-label="Close">
-                        <i class="fas fa-times"></i>
-                    </button>   
-                </div>
-            </div>
-            <!-- <div class="modal-header text-center text-black">
-                <div class="col-12">
-                    <h4 class="px-lg-6">Contact us to try our platform risk free for 30 days.</h4>
-                </div>
-            </div>
-            <form> -->
-                <div class="modal-body">
-                    <!-- <div class="row">
-                        <div class="col-12 col-lg-6 text-left">
-                            <p><input class="form-control" type="text" name="name" placeholder="Your name *" required></p>
-                            <p><input class="form-control" type="email" name="email" placeholder="Your email *" required></p>
-                        </div>
-                        <div class="col-12 col-lg-6 text-left">
-                            <p><input class="form-control" type="text" name="course" placeholder="Your golf course name *" required></p>
-                            <p><input class="form-control" type="text" name="questions" placeholder="Questions for us"></p>
-                        </div>
-                    </div> -->
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfmvOPL7PU6J1B_8k3yHUEaxc8hr3tD_c0Hdc4Qh_fRUu_OoA/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                </div>
-                <!-- <div class="modal-footer border-0 text-center">
-                    <div class="col text-gray">
-                        <button type="submit" class="btn btn-primary mb-4">Send</button>
-                    </div>
-                </div> -->
-            <!-- </form> -->
-        </div>
-    </div>
-</div>
+
+{% include contact_modal.html %} 
 
 </main>
