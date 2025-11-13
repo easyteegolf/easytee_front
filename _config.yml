@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Easy Tee Golf is the simple, powerful tee sheet software your golf course needs. Stop fighting clunky systems and enjoy seamless scheduling, pricing, and payments.
 # baseurl: "/"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "//easyteegolf.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://easyteegolf.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: "G-QPY6PLZH4T"
 # twitter_username: jekyllrb
 # github_username:  jekyll
