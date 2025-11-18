@@ -10,9 +10,7 @@ order: 1
 <div class="row justify-content-center">
 <div class="col-12 col-md-10 text-center" markdown="1">
 
-# Easy Tee Golf & Square: The Complete Operational Guide for Your Golf Course
-
-#### **Achieve total control over your golf course with integrated golf management software for every revenue stream.**
+# Easy Tee & Square: The Complete Golf Course Management System
 
 </div>
 </div>
@@ -21,201 +19,95 @@ order: 1
 
 <div class="container my-5" markdown="1">
 
+Many golf course operators are unaware that **Square is much more than just a payment processor.** It is a powerful, integrated commerce platform built to run every part of your business. Combined with Easy Tee Golf, which adds a specialized tee sheet and a powerful booking engine to the Square foundation, you get a seamless and **complete golf management solution.** Stop managing disjointed systems and discover how Easy Tee Golf and Square work together to give you the modern software solution your course deserves.
 
-Running a golf course is a complex business. You’re not just managing tee times; you’re operating a retail pro shop, running a food and beverage (F&B) service, handling memberships, and scheduling staff—all while striving to deliver a world-class guest experience.
+## **A Golf Course is Four Businesses in One**
 
-The integration of **Easy Tee Golf** and **Square** provides a powerful platform to manage every revenue stream and drive operational efficiency at your course. Easy Tee provides the specialized booking engine your course needs, and Square offers the robust, unified commerce platform to handle everything else.
+A golf course is a unique operational challenge because it requires the tools of several different industries under one roof. Thanks to its power and flexibility, Square is the perfect POS system to handle them all:
 
-Use this guide to understand exactly how each component of Square works with your Easy Tee system to maximize efficiency.
+<div class="row mb-4">
 
-![Square hardware]({{ '/assets/img/articles/digital_tee_sheet.jpeg' | relative_url }}){: .img-fluid}
+<div class="col-md-6 order-md-2 mb-4">
+<img src="{{'/assets/img/articles/golf_course.jpg' | relative_url }}" class="img-fluid rounded" alt="golf course">
+</div>
 
----
+<div class="col-md-6 order-md-1 align-self-center" markdown="1">
+#### 1. The Recreation Business (The Course)
 
-## **1\. Tee Times: Streamlining Booking and Payment**
+The core of your business—the golf course itself—has unique needs for complex scheduling, dynamic pricing, and managing customer flow. **This is where Easy Tee steps in.**
 
-Your booking system is the key to your course's financial health. The integration of **Easy Tee Golf’s** specialized booking engine and tee sheet with **Square** creates a powerful system where every tee time payment is securely processed, centrally tracked, and directly connected to your money management system.
+* **Solution:** Easy Tee provides the specialized, powerful tee sheet and booking engine, built to integrate directly into Square's platform, ensuring tee time revenue is seamlessly recorded alongside every other sale.
+</div>
 
-##### **Online Booking & Prepayment**
+</div>
 
-Easy Tee handles the scheduling logic (hours, pricing, cancellation windows, discounts, etc.). Square processes the payment at the time of booking or saves a card-on-file, securing your revenue immediately and reducing no-shows.
+<div class="row mb-4">
 
-[Square Payments Guide](https://squareup.com/payments){:target="_blank" rel="noopener noreferrer"}
+<div class="col-md-6 mb-4">
+<img src="{{'/assets/img/articles/pro_shop.jpg' | relative_url }}" class="img-fluid rounded" alt="pro shop">
+</div>
 
-##### **Consolidated Financial Reporting**
+<div class="col-md-6 align-self-center" markdown="1">
 
-Every payment collected via Easy Tee flows directly into your Square Dashboard's Transaction Report, allowing you to see tee time revenue alongside all other sales.
+#### **2. The Retail Business (The Pro Shop)**
 
-[Square Reporting & Analytics](https://squareup.com/analytics){:target="_blank" rel="noopener noreferrer"}
+Most golf courses rely on a pro shop, selling everything from golf balls and gloves to equipment and apparel.
 
-##### **Cancellation & Refund Control**
+* **Solution:** Square's flexible Point of Sale (POS) system handles all retail inventory and transactions with ease. Manage stock, track sales data, and process returns—all from the same system that handles your tee time payments.
+</div>
 
-In Easy Tee, you’re in control of your cancellation policy. You choose how far in advance customers have to cancel for a full refund and how much to charge as a cancellation fee for late cancellations. You can also manually process refunds in the Square system. Regardless of where a refund is initiated, all financial records are synced to Square and are linked to the original transaction.
+</div>
 
-[How to Process Square Refunds](https://squareup.com/help/us/en/article/5086-process-refunds-and-returns){:target="_blank" rel="noopener noreferrer"}
+<div class="row mb-4">
 
----
+<div class="col-md-6 order-md-2 mb-4">
+<img src="{{'/assets/img/articles/restaurant.jpg' | relative_url }}" class="img-fluid rounded" alt="restaurant">
+</div>
 
-## **2\. Customer Data & Loyalty: Building a Unified Golfer Profile**
+<div class="col-md-6 align-self-center order-md-1" markdown="1">
 
-The key to loyalty is knowing your customer. Square automatically creates a single, unified profile for every golfer, whether they book a round or buy a drink.
+#### **3. The Food & Beverage Business (The Clubhouse)**
 
-##### **Unified Customer Directory**
+Whether you manage a simple snack stand, a beverage cart, or a full-service restaurant and bar, F&B operations require specialized tools.
 
-When a customer books a tee time or pays in the Pro Shop, Square records their name and payment method, building a profile that tracks all their interactions and purchases.
+* **Solution:** Square offers robust, integrated software and hardware solutions (like Square for Restaurants) to streamline ordering, manage tables, and process payments quickly—keeping your food service flowing without needing separate systems.
+</div>
 
-[Square Customer Directory Features](https://squareup.com/help/us/en/article/5498-manage-your-customer-directory-online){:target="_blank" rel="noopener noreferrer"}
+</div>
 
-##### **Targeted Pricing with Customer Groups**
+<div class="row mb-4">
 
-Use Easy Tee or the Square Dashboard to create manual **Customer Groups**. And, leverage Square’s **Smart Groups** to automatically segment customers based on their purchase habits (e.g., 'Regulars' vs. 'Lapsed'). Both manual Customer Groups and Smart Groups can be used in Easy Tee to provide custom pricing and booking windows (e.g., members, seniors, juniors, etc.).
+<div class="col-md-6 mb-4">
+<img src="{{'/assets/img/articles/banquet.jpg' | relative_url }}" class="img-fluid rounded" alt="banquet hall">
+</div>
 
-[Create Customer Groups and Filters](https://squareup.com/help/us/en/article/6245-manage-customer-groups-and-filters){:target="_blank" rel="noopener noreferrer"}
+<div class="col-md-6 align-self-center" markdown="1">
 
-##### **Automated Loyalty Programs**
+#### **4. The Events Space (Banquets & Bookings)**
 
-Easy Tee integrates with Square Loyalty Programs helping you drive repeat purchases and customer loyalty automatically every time a customer books a tee time.
+In addition to golf, many courses rent out space for weddings, corporate events, and parties.
 
-[Square Loyalty Programs](https://squareup.com/us/en/software/loyalty){:target="_blank" rel="noopener noreferrer"}
+* **Solution:** Easy Tee's universal scheduling feature extends beyond tee times to handle all types of reservations. With Easy Tee and Square you can manage facility rentals, track deposits, and process payments, ensuring every revenue stream is captured and organized.
+</div>
 
+</div>
 
-##### **Drive Sales with Tailored Marketing**
+### **Beyond the Sale: Square's All-in-One Platform**
 
-With Square’s marketing automation, you can engage with your customers with targeted marketing campaigns to increase your business.
+Square provides more than just a place to swipe cards. It offers an entire ecosystem designed to simplify operations, unify data, and grow your business:
 
-[Square Marketing Features](https://squareup.com/marketing){:target="_blank" rel="noopener noreferrer"}
+* **Unified Customer Data:** Every customer who books a tee time, buys a glove, or pays for a sandwich is tracked in one Square profile, allowing for smarter marketing and personalized service.
 
----
+* **Marketing Tools:** Leverage built-in tools for SMS and Email marketing to communicate promotions and seasonal offers directly to your customer segments.
 
-## **3\. The Pro Shop & Retail: Maximizing Merchandise Revenue**
+* **Team Management:** Square offers features for employee scheduling, time tracking, and payroll integration, simplifying staff management across all four areas of your business.
 
-Your pro shop is a critical revenue center. Use **Square for Retail** to manage all your merchandise, from logo gear to golf balls. This ensures accurate inventory across your entire property.
+By choosing Easy Tee and Square, you eliminate the headaches of managing multiple disparate systems and gain the operational clarity of a single, powerful platform.
 
-##### **Real-Time Inventory Tracking**
+### **Simplify Your Operation, Maximize Your Revenue**
 
-Enable inventory tracking for every item in your **Square Item Library**. The stock count automatically adjusts with every sale, whether in the Pro Shop or via Square Online.
+By combining Easy Tee Golf's specialized, user-friendly tee sheet and powerful booking engine with the comprehensive business tools of Square POS, you finally get the complete, unified golf management system you deserve. Stop wrestling with complicated, fragmented systems and start focusing on running your business seamlessly. If you are ready to modernize your course operations and see the difference, <a href="https://app.easyteegolf.com/?next=/manager/newcourse/&trial=yes&modal=createAccountModal" target="_blank" class="text-secondary font-weight-bold">start your 30-day FREE trial today</a>. For a personal walkthrough of the system, <a href="#" data-toggle="modal" data-target="#contact-modal" data-name="button_click_contact" data-category="course" data-label="Contact" class="analytic_log text-secondary font-weight-bold">contact us to schedule a demo</a> to see Easy Tee and Square in action. Or, for a deeper dive into the technical setup, read our full operational guide: <a class="text-secondary font-weight-bold" href="/square-guide/">Easy Tee and Square: The Complete Operational Guide for Your Golf Course.</a>
 
-[Square Inventory Management Guide](https://squareup.com/us/en/point-of-sale/features/inventory-management){:target="_blank" rel="noopener noreferrer"}
-
-##### **Streamlined Receiving & Loss Tracking**
-
-Use the Square Dashboard or POS app to **"Receive Stock"** when a new shipment arrives. You can also perform cycle counts and track **"Loss"** (damage, theft) to keep records accurate.
-
-[View, Receive, and Adjust Inventory](https://squareup.com/help/us/en/article/6110-manage-inventory-with-the-retail-pos-app){:target="_blank" rel="noopener noreferrer"}
-
-##### **Integrated Gift Cards**
-
-Sell and track custom-branded physical and eGift cards. These are automatically integrated into your Square payment system and redeemable at any location on the course. They can even be used for **paying for tee times booked through Easy Tee**.
-
-[Square Gift Card Overview](https://squareup.com/gift-cards){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## **4\. Food & Beverage: Full-Service & Mobile Sales**
-
-Whether you run a full-service restaurant or a quick-serve bev cart, Square provides the right tools for seamless service and consolidated reporting.
-
-##### **Efficient Restaurant Operations**
-
-Use **Square for Restaurants** features for floor management, table-side ordering, and kitchen display systems (KDS) for efficient food prep.
-
-[Square for Restaurants POS Features](https://squareup.com/us/en/point-of-sale/restaurants/features){:target="_blank" rel="noopener noreferrer"}
-
-##### **Course-Wide Mobile Payments (Bev Cart)**
-
-Use the **Square Terminal** or **Square Reader** with a staff member's mobile device to accept contactless and chip payments anywhere on the course—even with Offline Mode enabled.
-
-[Square Handheld POS](https://squareup.com/us/en/hardware/handheld){:target="_blank" rel="noopener noreferrer"}
-
-##### **Real-Time Menu Syncing**
-
-Keep F&B inventory and pricing synced across all locations, ensuring the Pro Shop snack bar, clubhouse grill, and bev cart all charge the correct amount and report sales accurately.
-
-[Square for Restaurants Menu Management](https://squareup.com/help/us/en/article/7802-manage-your-menu-with-square-for-restaurants-pos){:target="_blank" rel="noopener noreferrer"}
-
-##### **Simplified End-of-Day Reconciliation**
-
-View your tee time revenue, retail sales, and F&B numbers side-by-side in one clear Square Dashboard, making **end-of-day reconciliation simple.**
-
-[Square Dashboard](https://squareup.com/us/en/point-of-sale/features/dashboard){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## **5\. Employee Management: Scheduling, Time Tracking, and Payroll**
-
-Spending hours on scheduling and payroll is time you could spend improving the course. Square simplifies labor management so you can focus on running your golf course.
-
-##### **Easy Scheduling**
-
-Use the **Square Team App** to create schedules. Staff can view their shifts, request time off, and swap shifts directly from their phones, reducing manager workload.
-
-[Set Up Team Schedules](https://squareup.com/help/us/en/article/7155-scheduling-with-team-management){:target="_blank" rel="noopener noreferrer"}
-
-##### **Automated Time Tracking**
-
-Staff clock in and out using a unique passcode directly on the POS or via the Team App. Timecards are automatically generated, tracking regular, overtime, and breaks.
-
-[View Team Member Timecard Reports](https://squareup.com/help/us/en/article/6140-employee-timecard-reporting){:target="_blank" rel="noopener noreferrer"}
-
-##### **Seamless, Full-Service Payroll**
-
-Review and approve timecards in the Square Dashboard. **Square Payroll** automatically imports hours and tips for seamless processing, handling tax filings and direct deposits.
-
-[Square Payroll for Employers](https://squareup.com/payroll){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## **6\. Enhancing the Member Experience with Advanced Payment Options**
-
-For private or semi-private clubs, Square offers the sophisticated financial tools you need to maintain a high-end, cashless experience that goes beyond the standard POS transaction.
-
-##### **Automated Recurring Membership Dues**
-
-Use **Square Invoices** to set up a **Recurring Invoice Series**. This allows you to automatically charge a member's card-on-file (with consent) weekly, monthly, or annually for their dues.
-
-[Create and Send Recurring Invoices](https://squareup.com/help/us/en/article/7209-create-a-recurring-invoice-series-online){:target="_blank" rel="noopener noreferrer"}
-
-##### **Cashless Spending with House Accounts**
-
-Use **Square House Accounts t**o track charges for a member throughout the month. At month-end, send a single invoice for the total balance. You can save their payment method for automated monthly billing.
-
-[Square House Accounts](https://squareup.com/us/en/house-accounts/retail){:target="_blank" rel="noopener noreferrer"}
-
-##### **Simplified Billing for Events with Invoices**
-
-With **Square Invoices** you can take payments for one-time charges for events, tournaments, and venue rentals. Invoices can be paid all at once or in installments.
-
-[Square Invoices Overview](https://squareup.com/us/en/invoices){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## **7\. Hardware: Devices for Every Point of Sale**
-
-Square's ecosystem of sleek, purpose-built hardware ensures you can accept payments reliably at every physical point of sale—from the check-in desk to the 9th hole.
-
-##### **Dedicated Countertop Registers**
-
-For high-volume, fixed locations like the **Pro Shop** or **Clubhouse Grill**, devices like the **Square Register** or **Square Terminal** offer integrated, all-in-one solutions that accept all forms of payment and run the POS software.
-
-##### **Handheld and Mobile Devices**
-
-Equip your staff with mobile solutions for on-the-go service. The **Square Terminal** or the **Square Reader for Contactless and Chip** paired with a mobile device are ideal for the **Beverage Cart, Greens Fee check-in, or pop-up event kiosks**. This mobility ensures you never miss a sale anywhere on the course.
-
-##### **Flexible Configuration**
-
-All Square hardware is designed to integrate seamlessly. You can customize your setup with cash drawers, receipt printers, and barcode scanners, ensuring you have the perfect configuration for every retail and F&B need.
-
-[Explore all Square Hardware options.](https://squareup.com/us/en/hardware){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## **Start Your Seamless Integration Today** 
-
-It’s time to move beyond fragmented, complicated software. The combination of **Easy Tee Golf** and **Square** is the smart, scalable solution designed to help you run a better business, provide a better experience, and make more money. You get: An industry-leading tee sheet and booking engine (Easy Tee Golf) and a powerful platform to handle payments, retail, F&B, and staffing (Square). 
-
-**Ready to transform your operation into a single, seamless system?** 
-
-<a href="#" data-toggle="modal" data-target="#contact-modal" data-name="button_click_contact" data-category="course" data-label="Contact" class="analytic_log text-secondary font-weight-bold">Contact us directly</a> to schedule a demo to see Easy Tee and Square in action, or <a href="https://app.easyteegolf.com/?next=/manager/newcourse/&trial=yes&modal=createAccountModal" target="_blank" class="text-secondary font-weight-bold">set up your account now</a> and get started with a free 30-day trial immediately. 
 
 </div>
 </main>
